@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "component/emitter": "*",
+    "component/jquery": "*",
+    "component/dialog": "*",
+    "component/confirmation": "*",
+    "component/overlay": "*",
+    "component/confirmation-popover": "*",
+    "component/popover": "*",
+    "component/tip": "*",
+    "component/menu": "*",
+    "stagas/choice-popover": "*"
+  }
+}
